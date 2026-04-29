@@ -1,6 +1,6 @@
 <img width="1276" height="622" alt="flukup_aerial2 copy" src="https://github.com/user-attachments/assets/68c565f2-08ff-42a4-a7dc-bb58a2bec235" />
 
-# Sperm-whale-habitats
+# Sperm whale habitats
 This repo is meant to help in the development of species distribution models (SDM) of sperm whales using tracking data.
 Code supporting the publication “Ecological drivers of movements and habitats of a deep diver: 
 the elusive sperm whale”. 
